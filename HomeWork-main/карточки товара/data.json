@@ -1,0 +1,50 @@
+[
+    {
+        "name": "11/22/63 ㅤㅤㅤㅤㅤㅤСтивен Кинг",
+        "price": 1200,
+        "image": "112263.jpg",
+        "year": ""
+    },
+    {
+        "name": "Sailor Moon. Том 8 ㅤㅤНаоко Такэути",
+        "price": 632,
+        "image": "Sailor.jpg",
+        "year": ""
+    },
+    {
+        "name": "Нити жизни ㅤㅤㅤНаталья Тимошенко",
+        "price": 743,
+        "image": "niti.jpg",
+        "year": ""
+    },
+    {
+        "name": "Вечно Дикая ㅤㅤㅤㅤㅤ К. -А. Такер",
+        "price": 425,
+        "image": "Dikaya.jpg",
+        "year": ""
+    },
+    {
+        "name": "Знак судьбы ㅤㅤㅤ Шеннон Майер",
+        "price": 625,
+        "image": "znaksudbi.jpg",
+        "year": ""
+    },
+    {
+        "name": "Клатбище домашних живтоных ㅤㅤㅤㅤㅤСтивен Кинг",
+        "price": 590,
+        "image": "klatbisheanimal.jpg",
+        "year": ""
+    },
+    {
+        "name": "Глаз Гейзенберга ㅤㅤФрэнк Герберт",
+        "price": 1200,
+        "image": "glaz.jpg",
+        "year": ""
+    },
+    {
+        "name": "Дочь огня ㅤㅤㅤВиктория Эйр",
+        "price": 625,
+        "image": "dochfire.jpg",
+        "year": ""
+    }
+]
